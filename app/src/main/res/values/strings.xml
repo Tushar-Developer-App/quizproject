@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">quizproject</string>
+    <string name="dialog_message">You can fill anything in "Email" and "Password" , but do not fill your real Email and Password...</string>
+    <string name="dialog_quit_message">Are you sure you want to quit this quiz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
